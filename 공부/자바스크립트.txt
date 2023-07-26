@@ -1,0 +1,2 @@
+JS 클래스와 object 비교: https://velog.io/@dyongdi/JS-class-vs-object-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5
+결국 액션(메소드)가 있는 주체적인 물건은 class로, 정적인 데이터만 있는 물건은 object로 하는게 좋으려나.
